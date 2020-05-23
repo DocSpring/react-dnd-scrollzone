@@ -68,7 +68,7 @@
   },
   "peerDependencies": {
     "react": "^16.8.6",
-    "react-dnd": "^8.0.3",
+    "react-dnd": "^9.5.1",
     "react-dom": "^16.8.6"
   }
 }
